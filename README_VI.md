@@ -34,6 +34,25 @@
 
 ---
 
+## Mục lục
+- [1. Tổng quan dự án](#1-tổng-quan-dự-án)
+- [2. Đặt vấn đề](#2-đặt-vấn-đề)
+- [3. Mô tả bộ dữ liệu](#3-mô-tả-bộ-dữ-liệu)
+- [4. Cấu trúc dự án](#4-cấu-trúc-dự-án)
+- [5. Quy trình xử lý dữ liệu (Data Pipeline)](#5-quy-trình-xử-lý-dữ-liệu-data-pipeline)
+- [6. Luồng công việc của Notebook](#6-luồng-công-việc-của-notebook)
+- [7. Làm sạch và Tiền xử lý dữ liệu](#7-làm-sạch-và-tiền-xử-lý-dữ-liệu)
+- [8. Feature Engineering](#8-feature-engineering)
+- [9. Chuẩn hóa dữ liệu (Feature Scaling)](#9-chuẩn-hóa-dữ-liệu-feature-scaling)
+- [10. Thuật toán gom nhóm](#10-thuật-toán-gom-nhóm)
+- [11. Kết quả thực nghiệm](#11-kết-quả-thực-nghiệm)
+- [12. Trực quan hóa kết quả](#12-trực-quan-hóa-kết-quả)
+- [13. Hạn chế của dự án](#13-hạn-chế-của-dự-án)
+- [14. Cách chạy dự án](#14-cách-chạy-dự-án)
+- [15. Kết luận](#15-kết-luận)
+
+---
+
 ## 1. Tổng quan dự án
 
 **Social Anomaly Clustering** là một dự án khai phá dữ liệu áp dụng các kỹ thuật học máy không giám sát để phát hiện các hành vi bất thường của người dùng trên các nền tảng mạng xã hội, cụ thể là Twitter/X.

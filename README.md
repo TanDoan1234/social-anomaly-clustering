@@ -32,6 +32,25 @@
 
 ---
 
+## Table of Contents
+- [1. Project Overview](#1-project-overview)
+- [2. Problem Statement](#2-problem-statement)
+- [3. Dataset Description](#3-dataset-description)
+- [4. Project Structure](#4-project-structure)
+- [5. Data Processing Pipeline](#5-data-processing-pipeline)
+- [6. Notebook Workflow](#6-notebook-workflow)
+- [7. Data Cleaning and Preprocessing](#7-data-cleaning-and-preprocessing)
+- [8. Feature Engineering](#8-feature-engineering)
+- [9. Feature Scaling](#9-feature-scaling)
+- [10. Clustering Algorithms](#10-clustering-algorithms)
+- [11. Experimental Results](#11-experimental-results)
+- [12. Key Visualizations](#12-key-visualizations)
+- [13. Limitations](#13-limitations)
+- [14. How to Run](#14-how-to-run)
+- [15. Conclusion](#15-conclusion)
+
+---
+
 ## 1. Project Overview
 
 **Social Anomaly Clustering** is a data mining project that applies unsupervised machine learning techniques to detect anomalous user behavior on social media platforms, specifically Twitter/X.
