@@ -2,14 +2,20 @@
   <img src="./assets/social_anomaly_clustering_animated_logo.gif" alt="Social Anomaly Clustering Logo" width="150">
 </p>
 
-# GOM NHÓM PHÁT HIỆN BẤT THƯỜNG - ĐỒ ÁN CUỐI KỲ KHAI PHÁ DỮ LIỆU
+<h1 align="center">GOM NHÓM PHÁT HIỆN BẤT THƯỜNG</h1>
+<h3 align="center">Đồ Án Cuối Kỳ Khai Phá Dữ Liệu</h3>
+<p align="center">
+  <b>K-Means • DBSCAN • PCA</b>
+</p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /><br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
